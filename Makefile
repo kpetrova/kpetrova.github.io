@@ -1,1 +1,2 @@
-bundle exec jekyll serve --livereload
+generate:
+	bundle exec jekyll serve --livereload
