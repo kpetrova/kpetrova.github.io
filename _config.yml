@@ -1,22 +1,19 @@
 # Basic Information 
-title: Your Name
+title: Kalina Petrova
 position: Postdoctoral researcher
-affiliation: Your Affiliation
-email: yourname (at) example.edu
+affiliation: Institute of Science and Technology Austria (ISTA)
+email: kalina.petrova (at) ist.ac.at
 
 # Search Engine Optimization (SEO)
 # The following information is used to improve the website traffic from search engines, e.g., Google.
-keywords: minimal light
-description: The Minimal Light is a simple and elegant jekyll theme for academic personal homepage.
-canonical: https://minimal-light-theme.yliu.me/
+keywords: kalina petrova combinatorics ista mathematics computer science research
+description: This is the academic webpage of Kalina Petrova, a researcher working in mathematics and computer science.
+canonical: https://kpetrova.github.io/
 
 # Links 
 # If you don't need one of them, you may delete the corresponding line.
-google_scholar: https://scholar.google.com/
+google_scholar: https://scholar.google.com/citations?user=_HNAd3QAAAAJ&hl=en&oi=ao
 cv_link: assets/files/curriculum_vitae.pdf
-github_link: https://github.com/
-linkedin: https://www.linkedin.com/
-twitter: https://twitter.com/
 
 # Images (e.g., your profile picture and your website's favicon) 
 # "favicon" and "favicon_dark" are used for the light and dark modes, respectively. 

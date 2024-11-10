@@ -41,8 +41,6 @@ The latest version of my homepage is available here: [[link](https://github.com/
 ├── LICENSE                                   #  the license file
 ├── README.md                                 #  the readme file (English)
 ├── README_de.md                              #  the readme file (German)
-├── README_zh_Hans.md                         #  the readme file (Simplified Chinese)
-├── README_zh_Hant.md                         #  the readme file (Traditional Chinese)
 ├── _config.yml                               #  the Jekyll configuration file, including some options of the page  
 └── index.md                                  #  the content of the index page, using Markdown
 ```
