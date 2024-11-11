@@ -2,6 +2,12 @@ body {
   font-size: 1.1rem;
 }
 
+links {
+  position: absolute;
+  right: 0;
+  top: 0;
+}
+
 .pub-row {
   display: flex; 
   align-items: center;}
