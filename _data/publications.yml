@@ -1,6 +1,11 @@
 main:
 
-  - title: Improved Bounds for Graph Distances in Scale Free Percolation and Related Models
-    authors: K. Lakis, J. Lengler, K. Petrova, L. Schiller
-    conference: Approximation, Randomization, and Combinatorial Optimization. Algorithms and Techniques (APPROX/RANDOM 2024).
+  - title: Improved bounds for graph distances in scale free percolation and related models
+    authors: Kostas Lakis, Johannes Lengler, Kalina Petrova, and Leon Schiller
+    conference: Approximation, Randomization, and Combinatorial Optimization. Algorithms and Techniques (APPROX/RANDOM 2024)
     pdf: https://arxiv.org/pdf/2405.07217
+
+  - title: Embedding loose spanning trees in 3-uniform hypergraphs
+    authors: Yanitsa Pehova and Kalina Petrova
+    journal: Journal of Combinatorial Theory, Series B, 168, 47-67
+    pdf: https://arxiv.org/abs/2301.09630
