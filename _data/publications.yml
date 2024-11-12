@@ -35,3 +35,38 @@ main:
     conference: Fifteenth International Workshop on Algebraic and Combinatorial Coding Theory, Albena, Bulgaria, June 18-24, 2016. Proceedings, 2016, 244-249
     pdf: http://www.moi.math.bas.bg/moiuser/~ACCT2016/a41.pdf
     type: conference
+
+  - title: Odd-Ramsey numbers of complete bipartite graphs
+    authors: Simona Boyadzhiyska, Shagnik Das, Thomas Lesgourgues, and Kalina Petrova
+    pdf: https://arxiv.org/pdf/2410.05887
+    type: preprint
+
+  - title: Linear-time MaxCut in multigraphs parameterized above the Poljak-Turzík bound
+    authors: Jonas Lill, Kalina Petrova, and Simon Weber
+    pdf: https://arxiv.org/pdf/2407.01071
+    type: preprint
+
+  - title: The Hamilton space of pseudorandom graphs
+    authors: Micha Christoph, Rajko Nenadov, and Kalina Petrova
+    pdf: https://arxiv.org/pdf/2402.01447
+    type: preprint
+
+  - title: A note on digraph splitting
+    authors: Micha Christoph, Kalina Petrova, and Raphael Steiner
+    pdf: https://arxiv.org/pdf/2310.08449
+    type: preprint
+
+  - title: Size-Ramsey numbers of structurally sparse graphs
+    authors: Nemanja Draganić, Marc Kaufmann, David Munhá Correia, Kalina Petrova, and Raphael Steiner
+    pdf: https://arxiv.org/pdf/2307.12028
+    type: preprint
+
+  - title: Randomly perturbed digraphs also have bounded-degree spanning trees
+    authors: Patryk Morawski and Kalina Petrova
+    pdf: https://arxiv.org/pdf/2306.14648
+    type: preprint
+
+  - title: Size-Ramsey numbers of graphs with maximum degree three
+    authors: Nemanja Draganić and Kalina Petrova
+    pdf: https://arxiv.org/pdf/2207.05048
+    type: preprint
