@@ -1,0 +1,13 @@
+<div class="publications">
+
+  <ol class="bibliography">
+
+    {% for link in site.data.publications-home.papers %}
+      {% include publications-row.html %}
+    {% endfor %}
+    
+  </ol>
+
+</div>
+
+<a href="/publications">Full list of publications</a>

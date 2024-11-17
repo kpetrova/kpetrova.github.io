@@ -1,0 +1,11 @@
+<div class="courses">
+
+  <ol class="coursework">
+
+    {% for link in site.data.teaching.courses %}
+      {% include teaching-row.html %}
+    {% endfor %}
+    
+  </ol>
+
+</div>

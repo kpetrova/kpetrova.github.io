@@ -1,0 +1,7 @@
+.course { font-weight: bolder; font-size: 1.1em; padding-right: 25px; }
+
+ol.coursework li { margin-bottom: 1rem; }
+
+ol.coursework { padding-left: 16px; }
+
+ol.coursework li .activity { font-style: italic; }

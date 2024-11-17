@@ -1,0 +1,21 @@
+courses:
+
+  - course: Advanced algorithms
+    university: ETH Zürich
+    activity: Creator of exercises
+    semester: Fall 2023
+
+  - course: Algorithms and probability
+    university: ETH Zürich
+    activity: Teaching assistant
+    semester: Spring 2020-2024
+  
+  - course: Algorithms lab
+    university: ETH Zürich
+    activity: Teaching assistant
+    semester: Fall 2019-2023
+
+  - course: Linear locally decodable codes
+    university: Princeton Univeristy
+    activity: Creator of lecture notes
+    semester: Spring 2017

@@ -1,0 +1,15 @@
+<div class="publications">
+
+  {% for curr_category in site.data.publications.main %}
+  <h3 class="cat-title">{{ curr_category.category }}</h3>
+
+  <ol class="bibliography">
+
+    {% for link in curr_category.papers %}
+      {% include publications-row.html %}
+    {% endfor %}
+    
+  </ol>
+  {% endfor %}
+
+</div>

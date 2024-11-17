@@ -1,72 +1,75 @@
 main:
+  - category: Preprints
+    papers:
+      - title: Odd-Ramsey numbers of complete bipartite graphs
+        authors: Simona Boyadzhiyska, Shagnik Das, Thomas Lesgourgues, and Kalina Petrova
+        pdf: https://arxiv.org/pdf/2410.05887
+        type: preprint
 
-  - title: Improved bounds for graph distances in scale free percolation and related models
-    authors: Kostas Lakis, Johannes Lengler, Kalina Petrova, and Leon Schiller
-    conference: Approximation, Randomization, and Combinatorial Optimization. Algorithms and Techniques (APPROX/RANDOM 2024)
-    pdf: https://arxiv.org/pdf/2405.07217
-    type: conference
+      - title: Linear-time MaxCut in multigraphs parameterized above the Poljak-Turzík bound
+        authors: Jonas Lill, Kalina Petrova, and Simon Weber
+        pdf: https://arxiv.org/pdf/2407.01071
+        type: preprint
 
-  - title: Embedding loose spanning trees in 3-uniform hypergraphs
-    authors: Yanitsa Pehova and Kalina Petrova
-    journal: Journal of Combinatorial Theory, Series B, 168, 47-67
-    pdf: https://arxiv.org/pdf/2301.09630
-    type: journal
+      - title: The Hamilton space of pseudorandom graphs
+        authors: Micha Christoph, Rajko Nenadov, and Kalina Petrova
+        pdf: https://arxiv.org/pdf/2402.01447
+        type: preprint
 
-  - title: On connectivity in random graph models with limited dependencies
-    authors: Johannes Lengler, Anders Martinsson, Kalina Petrova, Patrick Schinder, Raphael Steiner, Simon Weber, and Emo Welzl
-    journal: Random Structures & Algorithms, 65 (2), 411-448
-    pdf: https://arxiv.org/pdf/2305.02974 
-    type: journal
+      - title: A note on digraph splitting
+        authors: Micha Christoph, Kalina Petrova, and Raphael Steiner
+        pdf: https://arxiv.org/pdf/2310.08449
+        type: preprint
 
-  - title: Transference for loose Hamilton cycles in random 3-uniform hypergraphs
-    authors: Kalina Petrova and Miloš Trujić
-    journal: Random Structures & Algorithms 65 (2), 313-341
-    pdf: https://arxiv.org/pdf/2205.11421
-    type: journal
+      - title: Size-Ramsey numbers of structurally sparse graphs
+        authors: Nemanja Draganić, Marc Kaufmann, David Munhá Correia, Kalina Petrova, and Raphael Steiner
+        pdf: https://arxiv.org/pdf/2307.12028
+        type: preprint
 
-  - title: Optimal strategies for patrolling fences
-    authors: Bernhard Haeupler, Fabian Kuhn, Anders Martinsson, Kalina Petrova, and Pascal Pfister
-    conference: International Colloquium on Automata, Languages and Programming 2019, 144:1-144:13
-    pdf: https://arxiv.org/pdf/1809.06727
-    type: conference
+      - title: Randomly perturbed digraphs also have bounded-degree spanning trees
+        authors: Patryk Morawski and Kalina Petrova
+        pdf: https://arxiv.org/pdf/2306.14648
+        type: preprint
 
-  - title: A dynamic data structure for segment intersection queries
-    authors: Kalina Petrova and Robert Tarjan
-    conference: Fifteenth International Workshop on Algebraic and Combinatorial Coding Theory, Albena, Bulgaria, June 18-24, 2016. Proceedings, 2016, 244-249
-    pdf: http://www.moi.math.bas.bg/moiuser/~ACCT2016/a41.pdf
-    type: conference
+      - title: Size-Ramsey numbers of graphs with maximum degree three
+        authors: Nemanja Draganić and Kalina Petrova
+        pdf: https://arxiv.org/pdf/2207.05048
+        type: preprint
 
-  - title: Odd-Ramsey numbers of complete bipartite graphs
-    authors: Simona Boyadzhiyska, Shagnik Das, Thomas Lesgourgues, and Kalina Petrova
-    pdf: https://arxiv.org/pdf/2410.05887
-    type: preprint
+  - category: Published
+    papers:
+      - title: Improved bounds for graph distances in scale free percolation and related models
+        authors: Kostas Lakis, Johannes Lengler, Kalina Petrova, and Leon Schiller
+        conference: Approximation, Randomization, and Combinatorial Optimization. Algorithms and Techniques (APPROX/RANDOM 2024)
+        pdf: https://arxiv.org/pdf/2405.07217
+        type: conference
 
-  - title: Linear-time MaxCut in multigraphs parameterized above the Poljak-Turzík bound
-    authors: Jonas Lill, Kalina Petrova, and Simon Weber
-    pdf: https://arxiv.org/pdf/2407.01071
-    type: preprint
+      - title: Embedding loose spanning trees in 3-uniform hypergraphs
+        authors: Yanitsa Pehova and Kalina Petrova
+        journal: Journal of Combinatorial Theory, Series B, 168, 47-67
+        pdf: https://arxiv.org/pdf/2301.09630
+        type: journal
 
-  - title: The Hamilton space of pseudorandom graphs
-    authors: Micha Christoph, Rajko Nenadov, and Kalina Petrova
-    pdf: https://arxiv.org/pdf/2402.01447
-    type: preprint
+      - title: On connectivity in random graph models with limited dependencies
+        authors: Johannes Lengler, Anders Martinsson, Kalina Petrova, Patrick Schinder, Raphael Steiner, Simon Weber, and Emo Welzl
+        journal: Random Structures & Algorithms, 65 (2), 411-448
+        pdf: https://arxiv.org/pdf/2305.02974 
+        type: journal
 
-  - title: A note on digraph splitting
-    authors: Micha Christoph, Kalina Petrova, and Raphael Steiner
-    pdf: https://arxiv.org/pdf/2310.08449
-    type: preprint
+      - title: Transference for loose Hamilton cycles in random 3-uniform hypergraphs
+        authors: Kalina Petrova and Miloš Trujić
+        journal: Random Structures & Algorithms 65 (2), 313-341
+        pdf: https://arxiv.org/pdf/2205.11421
+        type: journal
 
-  - title: Size-Ramsey numbers of structurally sparse graphs
-    authors: Nemanja Draganić, Marc Kaufmann, David Munhá Correia, Kalina Petrova, and Raphael Steiner
-    pdf: https://arxiv.org/pdf/2307.12028
-    type: preprint
+      - title: Optimal strategies for patrolling fences
+        authors: Bernhard Haeupler, Fabian Kuhn, Anders Martinsson, Kalina Petrova, and Pascal Pfister
+        conference: International Colloquium on Automata, Languages and Programming 2019, 144:1-144:13
+        pdf: https://arxiv.org/pdf/1809.06727
+        type: conference
 
-  - title: Randomly perturbed digraphs also have bounded-degree spanning trees
-    authors: Patryk Morawski and Kalina Petrova
-    pdf: https://arxiv.org/pdf/2306.14648
-    type: preprint
-
-  - title: Size-Ramsey numbers of graphs with maximum degree three
-    authors: Nemanja Draganić and Kalina Petrova
-    pdf: https://arxiv.org/pdf/2207.05048
-    type: preprint
+      - title: A dynamic data structure for segment intersection queries
+        authors: Kalina Petrova and Robert Tarjan
+        conference: Fifteenth International Workshop on Algebraic and Combinatorial Coding Theory, Albena, Bulgaria, June 18-24, 2016. Proceedings, 2016, 244-249
+        pdf: http://www.moi.math.bas.bg/moiuser/~ACCT2016/a41.pdf
+        type: conference
