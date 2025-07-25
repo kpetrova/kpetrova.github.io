@@ -6,19 +6,9 @@ main:
         pdf: https://arxiv.org/pdf/2410.05887
         type: preprint
 
-      - title: Linear-time MaxCut in multigraphs parameterized above the Poljak-Turzík bound
-        authors: Jonas Lill, Kalina Petrova, and Simon Weber
-        pdf: https://arxiv.org/pdf/2407.01071
-        type: preprint
-
       - title: The Hamilton space of pseudorandom graphs
         authors: Micha Christoph, Rajko Nenadov, and Kalina Petrova
         pdf: https://arxiv.org/pdf/2402.01447
-        type: preprint
-
-      - title: A note on digraph splitting
-        authors: Micha Christoph, Kalina Petrova, and Raphael Steiner
-        pdf: https://arxiv.org/pdf/2310.08449
         type: preprint
 
       - title: Size-Ramsey numbers of structurally sparse graphs
@@ -31,13 +21,26 @@ main:
         pdf: https://arxiv.org/pdf/2306.14648
         type: preprint
 
-      - title: Size-Ramsey numbers of graphs with maximum degree three
-        authors: Nemanja Draganić and Kalina Petrova
-        pdf: https://arxiv.org/pdf/2207.05048
-        type: preprint
-
   - category: Published
     papers:
+      - title: Size-Ramsey numbers of graphs with maximum degree three
+        authors: Nemanja Draganić and Kalina Petrova
+        journal: Journal of the London Mathematical Society 111 (3), e70116
+        pdf: https://arxiv.org/pdf/2207.05048
+        type: journal
+
+      - title: Linear-time MaxCut in multigraphs parameterized above the Poljak-Turzík bound
+        authors: Jonas Lill, Kalina Petrova, and Simon Weber
+        journal: Algorithmica (2025), 1-25
+        pdf: https://arxiv.org/pdf/2407.01071
+        type: journal
+              
+      - title: A note on digraph splitting
+        authors: Micha Christoph, Kalina Petrova, and Raphael Steiner
+        journal: Combinatorics, Probability and Computing (2025), 1-6
+        pdf: https://arxiv.org/pdf/2310.08449
+        type: journal
+
       - title: Improved bounds for graph distances in scale free percolation and related models
         authors: Kostas Lakis, Johannes Lengler, Kalina Petrova, and Leon Schiller
         conference: Approximation, Randomization, and Combinatorial Optimization. Algorithms and Techniques (APPROX/RANDOM 2024)
