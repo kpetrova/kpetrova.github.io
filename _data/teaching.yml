@@ -1,21 +1,26 @@
 courses:
 
+  - course: Topics in Ramsey theory
+    institution: Institute of Science and Technology Austria (ISTA)
+    activity: Lecturer
+    semester: Fall 2024
+
   - course: Advanced algorithms
-    university: ETH Zürich
+    institution: ETH Zürich
     activity: Creator of exercises
     semester: Fall 2023
 
   - course: Algorithms and probability
-    university: ETH Zürich
+    institution: ETH Zürich
     activity: Teaching assistant
     semester: Spring 2020-2024
   
   - course: Algorithms lab
-    university: ETH Zürich
+    institution: ETH Zürich
     activity: Teaching assistant
     semester: Fall 2019-2023
 
   - course: Linear locally decodable codes
-    university: Princeton Univeristy
+    institution: Princeton Univeristy
     activity: Creator of lecture notes
     semester: Spring 2017
