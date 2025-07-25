@@ -12,8 +12,9 @@ papers:
 
   - title: Size-Ramsey numbers of graphs with maximum degree three
     authors: Nemanja Draganić and Kalina Petrova
+    journal: Journal of the London Mathematical Society 111 (3), e70116
     pdf: https://arxiv.org/pdf/2207.05048
-    type: preprint
+    type: journal
 
   - title: Transference for loose Hamilton cycles in random 3-uniform hypergraphs
     authors: Kalina Petrova and Miloš Trujić
