@@ -1,6 +1,11 @@
 main:
   - category: Preprints
     papers:
+      - title: Sharp thresholds for higher powers of Hamilton cycles in random graphs
+        authors: Tamás Makai, Matija Pasch, Kalina Petrova, Leon Schiller
+        pdf: https://arxiv.org/pdf/2502.14515
+        type: preprint
+
       - title: Odd-Ramsey numbers of complete bipartite graphs
         authors: Simona Boyadzhiyska, Shagnik Das, Thomas Lesgourgues, and Kalina Petrova
         pdf: https://arxiv.org/pdf/2410.05887
