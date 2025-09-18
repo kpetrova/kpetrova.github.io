@@ -1,5 +1,10 @@
 papers:
 
+  - title: Parities in random Latin squares
+    authors: Matthew Kwan, Kalina Petrova, and Mehtaab Sawhney
+    pdf: https://arxiv.org/pdf/2509.13125
+    type: preprint
+
   - title: The Hamilton space of pseudorandom graphs
     authors: Micha Christoph, Rajko Nenadov, and Kalina Petrova
     pdf: https://arxiv.org/pdf/2402.01447
