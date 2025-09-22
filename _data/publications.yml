@@ -3,31 +3,37 @@ main:
     papers:
       - title: Parities in random Latin squares
         authors: Matthew Kwan, Kalina Petrova, and Mehtaab Sawhney
+        journal: submitted in 2025
         pdf: https://arxiv.org/pdf/2509.13125
         type: preprint
 
       - title: Sharp thresholds for higher powers of Hamilton cycles in random graphs
         authors: Tamás Makai, Matija Pasch, Kalina Petrova, Leon Schiller
+        journal: submitted in 2025
         pdf: https://arxiv.org/pdf/2502.14515
         type: preprint
 
       - title: Odd-Ramsey numbers of complete bipartite graphs
         authors: Simona Boyadzhiyska, Shagnik Das, Thomas Lesgourgues, and Kalina Petrova
+        journal: submitted in 2024
         pdf: https://arxiv.org/pdf/2410.05887
         type: preprint
 
       - title: The Hamilton space of pseudorandom graphs
         authors: Micha Christoph, Rajko Nenadov, and Kalina Petrova
+        journal: submitted in 2024
         pdf: https://arxiv.org/pdf/2402.01447
         type: preprint
 
       - title: Size-Ramsey numbers of structurally sparse graphs
         authors: Nemanja Draganić, Marc Kaufmann, David Munhá Correia, Kalina Petrova, and Raphael Steiner
+        journal: submitted in 2023
         pdf: https://arxiv.org/pdf/2307.12028
         type: preprint
 
       - title: Randomly perturbed digraphs also have bounded-degree spanning trees
         authors: Patryk Morawski and Kalina Petrova
+        journal: submitted in 2023
         pdf: https://arxiv.org/pdf/2306.14648
         type: preprint
 
