@@ -13,12 +13,12 @@ courses:
   - course: Algorithms and probability
     institution: ETH Zürich
     activity: Teaching assistant
-    semester: Spring 2020-2024
+    semester: Spring 2020, 2021, 2022, 2023, 2024
   
   - course: Algorithms lab
     institution: ETH Zürich
     activity: Teaching assistant
-    semester: Fall 2019-2023
+    semester: Fall 2019, 2020, 2021, 2022, 2023
 
   - course: Linear locally decodable codes
     institution: Princeton Univeristy
