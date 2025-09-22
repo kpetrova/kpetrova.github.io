@@ -5,6 +5,18 @@ papers:
     journal: submitted in 2025
     pdf: https://arxiv.org/pdf/2509.13125
     type: preprint
+  
+  - title: Size-Ramsey numbers of graphs with maximum degree three
+    authors: Nemanja Draganić and Kalina Petrova
+    journal: Journal of the London Mathematical Society 111 (3), e70116, 2025
+    pdf: https://arxiv.org/pdf/2207.05048
+    type: journal
+
+  - title: Transference for loose Hamilton cycles in random 3-uniform hypergraphs
+    authors: Kalina Petrova and Miloš Trujić
+    journal: Random Structures & Algorithms 65 (2), 313-341, 2024
+    pdf: https://arxiv.org/pdf/2205.11421
+    type: journal
 
   - title: The Hamilton space of pseudorandom graphs
     authors: Micha Christoph, Rajko Nenadov, and Kalina Petrova
@@ -17,15 +29,3 @@ papers:
     journal: submitted in 2023
     pdf: https://arxiv.org/pdf/2307.12028
     type: preprint
-
-  - title: Size-Ramsey numbers of graphs with maximum degree three
-    authors: Nemanja Draganić and Kalina Petrova
-    journal: Journal of the London Mathematical Society 111 (3), e70116
-    pdf: https://arxiv.org/pdf/2207.05048
-    type: journal
-
-  - title: Transference for loose Hamilton cycles in random 3-uniform hypergraphs
-    authors: Kalina Petrova and Miloš Trujić
-    journal: Random Structures & Algorithms 65 (2), 313-341
-    pdf: https://arxiv.org/pdf/2205.11421
-    type: journal

@@ -41,7 +41,7 @@ main:
     papers:
       - title: Size-Ramsey numbers of graphs with maximum degree three
         authors: Nemanja Draganić and Kalina Petrova
-        journal: Journal of the London Mathematical Society 111 (3), e70116
+        journal: Journal of the London Mathematical Society 111 (3), e70116, 2025
         pdf: https://arxiv.org/pdf/2207.05048
         type: journal
 
@@ -65,19 +65,19 @@ main:
 
       - title: Embedding loose spanning trees in 3-uniform hypergraphs
         authors: Yanitsa Pehova and Kalina Petrova
-        journal: Journal of Combinatorial Theory, Series B, 168, 47-67
+        journal: Journal of Combinatorial Theory, Series B, 168, 47-67, 2024
         pdf: https://arxiv.org/pdf/2301.09630
         type: journal
 
       - title: On connectivity in random graph models with limited dependencies
         authors: Johannes Lengler, Anders Martinsson, Kalina Petrova, Patrick Schinder, Raphael Steiner, Simon Weber, and Emo Welzl
-        journal: Random Structures & Algorithms, 65 (2), 411-448
+        journal: Random Structures & Algorithms, 65 (2), 411-448, 2024
         pdf: https://arxiv.org/pdf/2305.02974 
         type: journal
 
       - title: Transference for loose Hamilton cycles in random 3-uniform hypergraphs
         authors: Kalina Petrova and Miloš Trujić
-        journal: Random Structures & Algorithms 65 (2), 313-341
+        journal: Random Structures & Algorithms 65 (2), 313-341, 2024
         pdf: https://arxiv.org/pdf/2205.11421
         type: journal
 
