@@ -14,6 +14,16 @@ courses:
     institution: ETH Zürich
     activity: Teaching assistant
     semester: Spring 2020, 2021, 2022, 2023, 2024
+
+  - course: Seminar on randomized algorithms and probabilistic methods
+    institution: ETH Zürich
+    activity: Student presentation supervisor
+    semester: Spring  2020, 2022, 2023, 2024
+  
+  - course: Randomized algorithms and probabilistic methods
+    institution: ETH Zürich
+    activity: Exam grader
+    semester: Fall 2019, 2021, 2022
   
   - course: Algorithms lab
     institution: ETH Zürich
