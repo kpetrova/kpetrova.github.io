@@ -4,7 +4,7 @@ main:
       - title: Odd-Ramsey numbers of Hamilton cycles
         authors: Simona Boyadzhiyska, Shagnik Das, Thomas Lesgourgues, and Kalina Petrova
         journal: submitted in 2025
-        pdf: https://arxiv.org/abs/2511.10497
+        pdf: https://arxiv.org/pdf/2511.10497
         type: preprint
 
       - title: Extending Thomassen's conjecture to directed graphs
