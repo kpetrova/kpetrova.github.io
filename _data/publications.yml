@@ -1,6 +1,18 @@
 main:
   - category: Preprints
     papers:
+      - title: On constructing small subgraphs in the budget-constrained random graph process
+        authors: Sylwia Antoniuk, Alberto Espuny Díaz, Kalina Petrova, Miloš Stojaković
+        journal: submitted in 2026
+        pdf: https://arxiv.org/pdf/2602.18325
+        type: preprint
+
+      - title: Ramsey number of a cycle versus a graph of a given size
+        authors: Stijn Cambie, Andrea Freschi, Patryk Morawski, Kalina Petrova, Alexey Pokrovskiy
+        journal: submitted in 2026
+        pdf: https://arxiv.org/pdf/2601.10238
+        type: preprint
+
       - title: Odd-Ramsey numbers of Hamilton cycles
         authors: Simona Boyadzhiyska, Shagnik Das, Thomas Lesgourgues, and Kalina Petrova
         journal: submitted in 2025
@@ -18,12 +30,6 @@ main:
         journal: submitted in 2025
         pdf: https://arxiv.org/pdf/2509.13125
         type: preprint
-      
-      - title: Packing subdivisions into regular graphs
-        authors: Richard Montgomery, Kalina Petrova, Arjun Ranganathan, Jane Tan
-        journal: submitted in 2025
-        pdf: https://arxiv.org/pdf/2508.00480
-        type: preprint
 
       - title: Sharp thresholds for higher powers of Hamilton cycles in random graphs
         authors: Tamás Makai, Matija Pasch, Kalina Petrova, Leon Schiller
@@ -31,20 +37,26 @@ main:
         pdf: https://arxiv.org/pdf/2502.14515
         type: preprint
 
-      - title: Size-Ramsey numbers of structurally sparse graphs
-        authors: Nemanja Draganić, Marc Kaufmann, David Munhá Correia, Kalina Petrova, and Raphael Steiner
-        journal: submitted in 2023
-        pdf: https://arxiv.org/pdf/2307.12028
-        type: preprint
+  - category: Published
+    papers:
+      - title: Packing subdivisions into regular graphs
+        authors: Richard Montgomery, Kalina Petrova, Arjun Ranganathan, Jane Tan
+        journal: Proceedings of the American Mathematical Society 154 (2026), 3693-3704
+        pdf: https://arxiv.org/pdf/2508.00480
+        type: journal
 
       - title: Randomly perturbed digraphs also have bounded-degree spanning trees
         authors: Patryk Morawski and Kalina Petrova
-        journal: submitted in 2023
+        journal: The Electronic Journal of Combinatorics 33(2) (2026), P2.24
         pdf: https://arxiv.org/pdf/2306.14648
-        type: preprint
+        type: journal
 
-  - category: Published
-    papers:
+      - title: Size-Ramsey numbers of structurally sparse graphs
+        authors: Nemanja Draganić, Marc Kaufmann, David Munhá Correia, Kalina Petrova, and Raphael Steiner
+        journal: Random Structures & Algorithms 68 (2) (2026), e70059
+        pdf: https://arxiv.org/pdf/2307.12028
+        type: journal
+
       - title: Odd-Ramsey numbers of complete bipartite graphs
         authors: Simona Boyadzhiyska, Shagnik Das, Thomas Lesgourgues, and Kalina Petrova
         journal: European Journal of Combinatorics 131 (2026), 104235
@@ -53,9 +65,9 @@ main:
 
       - title: The Hamilton space of pseudorandom graphs
         authors: Micha Christoph, Rajko Nenadov, and Kalina Petrova
-        journal: Journal of Combinatorial Theory, Series B, 176, 254-267, 2026
+        journal: Journal of Combinatorial Theory, Series B, 176 (2026), 254-267
         pdf: https://arxiv.org/pdf/2402.01447
-        type: preprint
+        type: journal
 
       - title: Size-Ramsey numbers of graphs with maximum degree three
         authors: Nemanja Draganić and Kalina Petrova
@@ -65,19 +77,19 @@ main:
 
       - title: Linear-time MaxCut in multigraphs parameterized above the Poljak-Turzík bound
         authors: Jonas Lill, Kalina Petrova, and Simon Weber
-        journal: Algorithmica (2025), 1-25
+        journal: Algorithmica 87 (2025), 983-1007
         pdf: https://arxiv.org/pdf/2407.01071
         type: journal
               
       - title: A note on digraph splitting
         authors: Micha Christoph, Kalina Petrova, and Raphael Steiner
-        journal: Combinatorics, Probability and Computing (2025), 1-6
+        journal: Combinatorics, Probability and Computing 34(4) (2025), 559-564
         pdf: https://arxiv.org/pdf/2310.08449
         type: journal
 
       - title: Improved bounds for graph distances in scale free percolation and related models
         authors: Kostas Lakis, Johannes Lengler, Kalina Petrova, and Leon Schiller
-        conference: Approximation, Randomization, and Combinatorial Optimization. Algorithms and Techniques (APPROX/RANDOM 2024)
+        conference: APPROX/RANDOM 2024, LIPIcs 317 (2024), 74:1-74:22
         pdf: https://arxiv.org/pdf/2405.07217
         type: conference
 
@@ -88,7 +100,7 @@ main:
         type: journal
 
       - title: On connectivity in random graph models with limited dependencies
-        authors: Johannes Lengler, Anders Martinsson, Kalina Petrova, Patrick Schinder, Raphael Steiner, Simon Weber, and Emo Welzl
+        authors: Johannes Lengler, Anders Martinsson, Kalina Petrova, Patrick Schnider, Raphael Steiner, Simon Weber, and Emo Welzl
         journal: Random Structures & Algorithms, 65 (2), 411-448, 2024
         pdf: https://arxiv.org/pdf/2305.02974 
         type: journal

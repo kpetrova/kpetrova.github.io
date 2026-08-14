@@ -1,4 +1,27 @@
 papers:
+  - title: Packing subdivisions into regular graphs
+    authors: Richard Montgomery, Kalina Petrova, Arjun Ranganathan, Jane Tan
+    journal: Proceedings of the American Mathematical Society 154 (2026), 3693-3704
+    pdf: https://arxiv.org/pdf/2508.00480
+    type: journal
+
+  - title: The Hamilton space of pseudorandom graphs
+    authors: Micha Christoph, Rajko Nenadov, and Kalina Petrova
+    journal: Journal of Combinatorial Theory, Series B, 176 (2026), 254-267
+    pdf: https://arxiv.org/pdf/2402.01447
+    type: journal
+ 
+  - title: Size-Ramsey numbers of structurally sparse graphs
+    authors: Nemanja Draganić, Marc Kaufmann, David Munhá Correia, Kalina Petrova, and Raphael Steiner
+    journal: Random Structures & Algorithms 68 (2) (2026), e70059
+    pdf: https://arxiv.org/pdf/2307.12028
+    type: journal
+
+  - title: Ramsey number of a cycle versus a graph of a given size
+    authors: Stijn Cambie, Andrea Freschi, Patryk Morawski, Kalina Petrova, Alexey Pokrovskiy
+    journal: submitted in 2026
+    pdf: https://arxiv.org/pdf/2601.10238
+    type: preprint
 
   - title: Parities in random Latin squares
     authors: Matthew Kwan, Kalina Petrova, and Mehtaab Sawhney
@@ -17,15 +40,3 @@ papers:
     journal: Random Structures & Algorithms 65 (2), 313-341, 2024
     pdf: https://arxiv.org/pdf/2205.11421
     type: journal
-
-  - title: The Hamilton space of pseudorandom graphs
-    authors: Micha Christoph, Rajko Nenadov, and Kalina Petrova
-    journal: Journal of Combinatorial Theory, Series B, 176, 254-267, 2026
-    pdf: https://arxiv.org/pdf/2402.01447
-    type: preprint
-
-  - title: Size-Ramsey numbers of structurally sparse graphs
-    authors: Nemanja Draganić, Marc Kaufmann, David Munhá Correia, Kalina Petrova, and Raphael Steiner
-    journal: submitted in 2023
-    pdf: https://arxiv.org/pdf/2307.12028
-    type: preprint
