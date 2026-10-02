@@ -51,28 +51,28 @@ main:
         pdf: https://arxiv.org/pdf/2508.00480
         type: journal
 
-      - title: Randomly perturbed digraphs also have bounded-degree spanning trees
-        authors: Patryk Morawski and Kalina Petrova
-        journal: The Electronic Journal of Combinatorics 33(2) (2026), P2.24
-        pdf: https://arxiv.org/pdf/2306.14648
-        type: journal
-
       - title: Size-Ramsey numbers of structurally sparse graphs
         authors: Nemanja Draganić, Marc Kaufmann, David Munhá Correia, Kalina Petrova, and Raphael Steiner
         journal: Random Structures & Algorithms 68 (2) (2026), e70059
         pdf: https://arxiv.org/pdf/2307.12028
         type: journal
 
-      - title: Odd-Ramsey numbers of complete bipartite graphs
-        authors: Simona Boyadzhiyska, Shagnik Das, Thomas Lesgourgues, and Kalina Petrova
-        journal: European Journal of Combinatorics 131 (2026), 104235
-        pdf: https://arxiv.org/pdf/2410.05887
+      - title: Randomly perturbed digraphs also have bounded-degree spanning trees
+        authors: Patryk Morawski and Kalina Petrova
+        journal: The Electronic Journal of Combinatorics 33(2) (2026), P2.24
+        pdf: https://arxiv.org/pdf/2306.14648
         type: journal
 
       - title: The Hamilton space of pseudorandom graphs
         authors: Micha Christoph, Rajko Nenadov, and Kalina Petrova
         journal: Journal of Combinatorial Theory, Series B, 176 (2026), 254-267
         pdf: https://arxiv.org/pdf/2402.01447
+        type: journal
+        
+      - title: Odd-Ramsey numbers of complete bipartite graphs
+        authors: Simona Boyadzhiyska, Shagnik Das, Thomas Lesgourgues, and Kalina Petrova
+        journal: European Journal of Combinatorics 131 (2026), 104235
+        pdf: https://arxiv.org/pdf/2410.05887
         type: journal
 
       - title: Size-Ramsey numbers of graphs with maximum degree three
