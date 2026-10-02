@@ -1,6 +1,12 @@
 main:
   - category: Preprints
     papers:
+      - title: Improved bounds on completion of partial Latin squares
+        authors: Jack Allsop, Candida Bowtell, Thomas Lesgourgues, Kalina Petrova
+        journal: submitted in 2026
+        pdf: https://arxiv.org/pdf/2609.37877
+        type: preprint
+
       - title: On constructing small subgraphs in the budget-constrained random graph process
         authors: Sylwia Antoniuk, Alberto Espuny Díaz, Kalina Petrova, Miloš Stojaković
         journal: submitted in 2026

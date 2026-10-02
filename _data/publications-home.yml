@@ -17,6 +17,12 @@ papers:
     pdf: https://arxiv.org/pdf/2307.12028
     type: journal
 
+  - title: Improved bounds on completion of partial Latin squares
+    authors: Jack Allsop, Candida Bowtell, Thomas Lesgourgues, Kalina Petrova
+    journal: submitted in 2026
+    pdf: https://arxiv.org/pdf/2609.37877
+    type: preprint
+
   - title: Ramsey number of a cycle versus a graph of a given size
     authors: Stijn Cambie, Andrea Freschi, Patryk Morawski, Kalina Petrova, Alexey Pokrovskiy
     journal: submitted in 2026
