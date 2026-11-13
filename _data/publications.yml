@@ -1,6 +1,12 @@
 main:
   - category: Preprints
     papers:
+      - title: On the probability that a random Latin square is all-even
+        authors: Catherine Greenhill, Lenka Kopfová, Matthew Kwan, Kalina Petrova
+        journal: submitted in 2026
+        pdf: https://arxiv.org/pdf/2610.13487v1
+        type: preprint
+
       - title: Improved bounds on completion of partial Latin squares
         authors: Jack Allsop, Candida Bowtell, Thomas Lesgourgues, Kalina Petrova
         journal: submitted in 2026
